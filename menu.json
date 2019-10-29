@@ -1,0 +1,45 @@
+[{
+	"navbar": [{
+			"menuname": "ITEMMENU",
+			"dropdown": "yes",
+			"url": "http://blabla",
+			"links": [{
+					"name": "drop1",
+					"url": "https://1"
+				},
+				{
+					"name": "drop2",
+					"url": "https://2"
+				}
+			]
+		},
+		{
+			"menuname": "itemmenu2",
+			"dropdown": "yes",
+			"url": "http://blabla",
+			"links": [{
+					"name": "drop2",
+					"url": "https://drop2"
+				},
+				{
+					"name": "drop3",
+					"url": "drop3"
+				}
+			]
+		},
+		{
+			"menuname": "link3",
+			"dropdown": "no",
+			"url": "http://blabla"
+		},
+		{
+			"menuname": "link4",
+			"dropdown": "no",
+			"url": "http://bla2"
+		}
+	],
+
+	"menuright": [{
+		"input": "text"
+	}]
+}]
